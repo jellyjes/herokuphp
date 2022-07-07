@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- fix : does not have meta attribute -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Test</title>
+    <!-- fix : Does not have a [title] attribute -->
 </head>
 <body>
     Hello World!
