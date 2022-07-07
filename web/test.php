@@ -3,6 +3,7 @@
 <head>
     <!-- fix : does not have meta attribute -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Description of the webpage">
     <title>Test</title>
     <!-- fix : Does not have a [title] attribute -->
 </head>
